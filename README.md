@@ -1,14 +1,15 @@
 <h1 align="center">Hi there, I'm Robe Getachew! 👋🚀</h1>
 
-<p align="center">
+<div align="center">
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">
+  <br>
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&pause=1000&color=F72585&center=true&width=500&lines=Software+Developer+%7C+AI+Enthusiast;Full-Stack+Developer+%7C+Computer+Science+Engineer;FIRST+Global+Alumni+%7C+Women+in+Tech;Mentor+%40+FIRST+Global+Robotics+Dubai;Ambassador+%40+TME+Education+Ethiopia;Software+Developer+%40+Ethiopian+AI+Institute" />
-</p>
+</div>
 
 ---
 
 ## 🌍 About Me:
-- 💻 ** Software Developer** at **Ethiopian Artificial Intelligence Institute **  
+- 💻 **Software Developer** at **Ethiopian Artificial Intelligence Institute**  
 - 🎓 **Computer Science & Engineering Graduate**  
 - 🚀 Passionate about **AI, Robotics, and Full-Stack Development**  
 - 🌟 **FIRST Global Robotics Alumni** (🇲🇽 **Mexico 2018** – Competitor)  
@@ -20,14 +21,14 @@
 ---
 
 ## 🚀 Skills & Technologies:
-<p align="center">
+<div align="center">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" />
   <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black" />
   <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/GraphQL-E10098?style=flat&logo=graphql&logoColor=white" />
   <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white" />
-</p>
+</div>
 
 🔹 **Programming:** JavaScript (React, Node.js), Python, C++, TypeScript  
 🔹 **AI/ML:** TensorFlow, OpenAI APIs, Keycloak, Speech-to-Text  
