@@ -48,9 +48,12 @@
 ---
 
 ## 🌟 Featured Projects (Participated In):
-🚖 **[TaxiMe Drive App (Figma UI)](#)**  
+🚀 **[Project Management System (React & Node.js)](#)**  
+🏗 **[Construction Company Portfolio (React, TailwindCSS, Node.js)](#)**  
+🤖 **[Arduino-Based Robotics Project](#)**  
 🛒 **[MERN Shopping System (GraphQL, TypeScript)](#)**  
 🎓 **[E-learning System (React & Node.js)](#)**  
+
 
 ---
 
