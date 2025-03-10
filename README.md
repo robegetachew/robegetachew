@@ -40,13 +40,17 @@
       <td align="center">
         <img src="https://github-readme-stats.vercel.app/api?username=robegetachew&show_icons=true&theme=radical" height="165"/>
       </td>
-    
+      <td align="center">
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=robegetachew&theme=radical" height="165"/>
+      </td>
     </tr>
   </table>
   
   <br>
   
+  <img src="https://github-profile-trophy.vercel.app/?username=robegetachew&theme=dracula&margin-w=5&no-frame=true" width="80%"/>
 </div>
+
 
 
 ---
