@@ -2,18 +2,20 @@
 
 <p align="center">
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&pause=1000&color=F72585&center=true&width=450&lines=Software+Engineer+%7C+AI+Enthusiast;Full-Stack+Developer;FIRST+Global+Robotics+Competitor;TME+Education+Ethiopia+Ambassador;Software+Developer+%40+Ethiopian+AI+Institute" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&pause=1000&color=F72585&center=true&width=500&lines=Software+Developer+%7C+AI+Enthusiast;Full-Stack+Developer+%7C+Computer+Science+Engineer;FIRST+Global+Alumni+%7C+Women+in+Tech;Mentor+%40+FIRST+Global+Robotics+Dubai;Ambassador+%40+TME+Education+Ethiopia;Software+Developer+%40+Ethiopian+AI+Institute" />
 </p>
 
 ---
 
-### 🌍 About Me:
-- 🚀 **Software Developer** at **Ethiopian Artificial Intelligence Institute**  
-- 🤖 Passionate about **AI, Robotics, and Full-Stack Development**  
-- 🌟 **FIRST Global Robotics Competitor** (🏆 Mexico & Dubai)  
-- 🎓 **Current Ambassador** of **TME Education Ethiopia**  
-- 🏆 Ranked **2nd Globally** in **FIRST Global Robotics**  
-- ⚡ **Bringing Ideas to Life through Code & Innovation**  
+## 🌍 About Me:
+- 💻 **Software Developer** at **Ethiopian Artificial Intelligence Institute**  
+- 🎓 **Computer Science & Engineering Graduate**  
+- 🚀 Passionate about **AI, Robotics, and Full-Stack Development**  
+- 🌟 **FIRST Global Robotics Alumni** (🇲🇽 **Mexico 2018** – Competitor)  
+- 🏆 **FIRST Global Robotics Mentor** (🇦🇪 **Dubai 2019**)  
+- 💡 **Ambassador of TME Education Ethiopia**  
+- 👩‍💻 **Women in Tech Advocate**  
+- ⚡ **Driven by Innovation & Problem-Solving**  
 
 ---
 
@@ -51,19 +53,13 @@
 
 ---
 
-## 🔥 Fun Fact:
-> **"Code is like humor. When you have to explain it, it's bad."** 😆  
-
----
-
 ## 💡 Let's Connect:
 📧 **Email:** [robegetachew12@gmail.com](mailto:robegetachew12@gmail.com)  
+📱 **Phone:** +251 945 821 000  
 💼 [**LinkedIn**](https://www.linkedin.com/in/robe-getachew-005496192/)  
-🐦 [**Twitter/X**](https://twitter.com/robegetachew)  
-📺 [**YouTube (Soon!)**](#)  
 
 ---
 
-💻 **"Turning ideas into reality with code!"** 🚀  
-⭐ **Don't forget to star my repos!** ⭐  
+💻 **"Transforming challenges into innovations with code!"** 🚀  
+⭐ **If you like my work, drop a star!** ⭐  
 ![Profile Views](https://komarev.com/ghpvc/?username=robegetachew&color=blue)
