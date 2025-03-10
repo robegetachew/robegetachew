@@ -21,13 +21,14 @@
 ## 🚀 **Skills & Technologies**  
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,react,nodejs,graphql,tailwind,nextjs,python,cpp,docker,git,figma" />
+  <img src="https://skillicons.dev/icons?i=js,ts,react,nodejs,graphql,tailwind,nextjs,python,cpp,docker,git,figma,arduino" />
 </div>
 
-🔹 **Programming:** JavaScript (React, Node.js), Python, C++, TypeScript  
-🔹 **AI/ML:** TensorFlow, OpenAI APIs, Keycloak, Speech-to-Text  
+🔹 **Programming:** JavaScript (React, Node.js, Next.js, Nuxt.js ), Python, C++, TypeScript  
+🔹 **AI/ML:** OpenAI APIs, Speech-to-Text  
 🔹 **Full-Stack:** MERN Stack, Next.js, TailwindCSS, GraphQL  
-🔹 **DevOps:** Docker, Git, CI/CD, Firebase  
+🔹 **DevOps:** Docker, Git, CI/CD  
+🔹 **Embedded Systems:** **Arduino IDE, Arduino Simulation (Tinkercad, Proteus, etc.)**  
 
 ---
 
