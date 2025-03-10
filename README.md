@@ -46,7 +46,6 @@
   
   <br>
   
-  <img src="https://github-profile-trophy.vercel.app/?username=robegetachew&theme=dracula&margin-w=5&no-frame=true" width="80%"/>
 </div>
 
 
