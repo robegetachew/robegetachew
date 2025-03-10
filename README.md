@@ -22,18 +22,16 @@
 
 ---
 
-## 🌟 Featured Projects:
+## 🌟 Featured Projects(participated on):
 🔹 🚖 [**TaxiMe Drive App (Figma UI)**](#)  
-🔹 🏗️ [**Fraol Construction Portfolio**](#)  
 🔹 🛒 [**MERN Shopping System (GraphQL, TypeScript)**](#)  
 🔹 🎓 [**E-learning System (React & Node.js)**](#)  
 
 ---
 
 ## 💡 Let's Connect:
-📧 **Email:** robe@example.com  
-💼 [**LinkedIn**](https://linkedin.com/in/robegetachew)  
-🐦 [**Twitter**](https://twitter.com/robegetachew)  
+📧 **Email:** robegetachew12@gmail.com  
+💼 [**LinkedIn**]([https://linkedin.com/in/robegetachew](https://www.linkedin.com/in/robe-getachew-005496192/))  
 
 ---
 
