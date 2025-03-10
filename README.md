@@ -28,7 +28,7 @@
 🔹 **AI/ML:** OpenAI APIs, Speech-to-Text  
 🔹 **Full-Stack:** MERN Stack, Next.js, TailwindCSS, GraphQL  
 🔹 **DevOps:** Docker, Git, CI/CD  
-🔹 **Embedded Systems:** **Arduino IDE, Arduino Simulation (Tinkercad, Proteus, etc.)**  
+🔹 **Embedded Systems:** **Arduino IDE, Arduino, Proteus**  
 
 ---
 
