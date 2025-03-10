@@ -8,7 +8,7 @@
 ---
 
 ## 🌍 About Me:
-- 💻 **Software Developer** at **Ethiopian Artificial Intelligence Institute**  
+- 💻 ** Software Developer** at **Ethiopian Artificial Intelligence Institute **  
 - 🎓 **Computer Science & Engineering Graduate**  
 - 🚀 Passionate about **AI, Robotics, and Full-Stack Development**  
 - 🌟 **FIRST Global Robotics Alumni** (🇲🇽 **Mexico 2018** – Competitor)  
