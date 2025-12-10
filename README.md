@@ -25,7 +25,7 @@
 
 ---
 
-## 📊 Activity (Clean & Minimal)
+## 📊 Activity 
 <div align="center">
 
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=robegetachew&bg_color=0d1117&color=6C63FF&line=6C63FF&point=FFFFFF&area=true&hide_border=true" width="90%"/>
@@ -38,8 +38,8 @@
 - Project Management System — React & Node.js  
 - Construction Company Platform — React + TailwindCSS  
 - Robotics Projects — Arduino  
-- MERN Shopping System — GraphQL + TypeScript  
-- E-learning System — React & Node.js  
+- MERN Shopping System — GraphQL + TypeScript
+- And more
 
 ---
 
