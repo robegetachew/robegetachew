@@ -50,7 +50,7 @@
 
 ---
 
-## 👁️ Profile Views (Clean Badge)
+## 👁️ Profile Views
 <div align="center">
 
   <img src="https://komarev.com/ghpvc/?username=robegetachew&style=for-the-badge&color=6C63FF" />
