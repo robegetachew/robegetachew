@@ -71,9 +71,7 @@
 
 <div align="center">
 
-[![Leetcode Stats](https://leetcard.jacoblin.cool/robegetachew?theme=dark&border=0&radius=8)](https://leetcode.com/u/robegetachew/)
-
-<img src="https://leetcard.jacoblin.cool/robegetachew?ext=heatmap&theme=dark&border=0&radius=8" width="90%" alt="LeetCode activity heatmap" />
+[![Leetcode Stats + Heatmap](https://leetcard.jacoblin.cool/robegetachew?ext=heatmap&theme=dark&border=0&radius=8)](https://leetcode.com/u/robegetachew/)
 
 </div>
 
