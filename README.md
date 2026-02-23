@@ -56,9 +56,6 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=robegetachew&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=6C63FF&icon_color=6C63FF" width="52%" alt="GitHub stats" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=robegetachew&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=6C63FF&langs_count=8" width="52%" alt="Top languages" />
-
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=robegetachew&bg_color=0d1117&color=6C63FF&line=6C63FF&point=FFFFFF&area=true&hide_border=true" width="90%" alt="Contribution graph" />
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=robegetachew&theme=radical&hide_border=true&background=0d1117&ring=6C63FF&fire=6C63FF&currStreakLabel=6C63FF" width="70%" alt="GitHub streak" />
