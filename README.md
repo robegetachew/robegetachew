@@ -71,8 +71,6 @@
 
 [![LeetCode user robegetachew](https://img.shields.io/badge/dynamic/json?style=for-the-badge&labelColor=black&color=%23ffa116&label=LeetCode&query=ranking&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2Frobegetachew&logo=leetcode&logoColor=black)](https://leetcode.com/u/robegetachew/)
 
-*Replace `robegetachew` in the URL above with your LeetCode username.*
-
 </div>
 
 ---
