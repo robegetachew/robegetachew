@@ -1,58 +1,88 @@
-<h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=6C63FF&center=true&vCenter=true&width=650&lines=Hi+I'm+Robe+Getachew+👋;Software+Developer+%7C+AI+%26+Robotics;Full-Stack+Engineer+🚀" />
-</h1>
+<div align="center">
+
+# 👋 Hi, I'm Robe Getachew
+
+**Software Developer · Full-Stack Engineer · AI & Robotics**
+
+*Building things that matter — from web apps to robots.*
 
 ---
+
+</div>
 
 ## 🌍 About Me
-- 💼 **Software Developer at Ethiopian Artificial Intelligence Institute**
-- 🤖 FIRST Global Robotics **Alumni (Mexico 2018)**
-- 🧠 FIRST Global Robotics **Mentor (Dubai 2019)**
-- 💡 TME Education **Ambassador**
-- 👩‍💻 Women in Tech Advocate  
-- ⚡ Passionate about **AI, Robotics, Motion UI & Full-Stack Engineering**
+
+- 💼 **Software Developer** at Ethiopian Artificial Intelligence Institute  
+- 🤖 FIRST Global Robotics **Alumni** (Mexico 2018) · **Mentor** (Dubai 2019)  
+- 💡 TME Education **Ambassador** · 👩‍💻 Women in Tech Advocate  
+- ⚡ Into **AI, Robotics, Motion UI & Full-Stack Engineering**
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠 Tech Stack
+
 <div align="center">
 
-  <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,nestjs" />
-  <img src="https://skillicons.dev/icons?i=nuxt,flutter,python,cpp,tailwind,graphql" />
-  <img src="https://skillicons.dev/icons?i=docker,git,arduino,figma" />
+**Languages**  
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+
+**Frontend**  
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Sass](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
+![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
+
+**Tools & Frameworks**  
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![Redux](https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 </div>
 
 ---
 
-## 📊 Activity 
+## ⚙️ GitHub Analytics
+
 <div align="center">
 
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=robegetachew&bg_color=0d1117&color=6C63FF&line=6C63FF&point=FFFFFF&area=true&hide_border=true" width="90%"/>
+<img src="https://github-readme-stats.vercel.app/api?username=robegetachew&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=6C63FF&icon_color=6C63FF" width="48%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=robegetachew&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=6C63FF" width="48%" />
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=robegetachew&theme=radical&hide_border=true&background=0d1117&ring=6C63FF&fire=6C63FF&currStreakLabel=6C63FF" width="70%" />
 
 </div>
 
 ---
 
-## 🌟 Featured Projects
-- Project Management System — React & Node.js  
-- Construction Company Platform — React + TailwindCSS  
-- Robotics Projects — Arduino  
-- MERN Shopping System — GraphQL + TypeScript
-- And more
+## 🧩 Leetcode
+
+<div align="center">
+
+[![LeetCode user robegetachew](https://img.shields.io/badge/dynamic/json?style=for-the-badge&labelColor=black&color=%23ffa116&label=LeetCode&query=ranking&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2Frobegetachew&logo=leetcode&logoColor=black)](https://leetcode.com/u/robegetachew/)
+
+*Replace `robegetachew` in the URL above with your LeetCode username.*
+
+</div>
 
 ---
 
 ## 📬 Contact
-📧 Email: **robegetachew12@gmail.com**  
-📱 Phone: **+251 945 821 000**  
-🔗 LinkedIn: [**Robe Getachew**](https://www.linkedin.com/in/robe-getachew-005496192/)
 
----
-
-## 👁️ Profile Views
 <div align="center">
 
-  <img src="https://komarev.com/ghpvc/?username=robegetachew&style=for-the-badge&color=6C63FF" />
+📧 **robegetachew12@gmail.com** · 📱 **+251 945 821 000** · [**LinkedIn**](https://www.linkedin.com/in/robe-getachew-005496192/)
+
+<img src="https://komarev.com/ghpvc/?username=robegetachew&style=for-the-badge&color=6C63FF" />
 
 </div>
