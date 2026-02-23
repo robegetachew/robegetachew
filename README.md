@@ -56,10 +56,20 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=robegetachew&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=6C63FF&icon_color=6C63FF" width="48%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=robegetachew&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=6C63FF" width="48%" />
+#### My GitHub Statistics
+*Stars · Commits · PRs · Issues · Contributed to*
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=robegetachew&theme=radical&hide_border=true&background=0d1117&ring=6C63FF&fire=6C63FF&currStreakLabel=6C63FF" width="70%" />
+<img src="https://github-readme-stats.vercel.app/api?username=robegetachew&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=6C63FF&icon_color=6C63FF" width="52%" alt="GitHub stats" />
+
+#### My Programming Languages
+*Language breakdown*
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=robegetachew&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=6C63FF&langs_count=8" width="52%" alt="Top languages" />
+
+#### Contribution Graph
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=robegetachew&bg_color=0d1117&color=6C63FF&line=6C63FF&point=FFFFFF&area=true&hide_border=true" width="90%" alt="Contribution graph" />
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=robegetachew&theme=radical&hide_border=true&background=0d1117&ring=6C63FF&fire=6C63FF&currStreakLabel=6C63FF" width="70%" alt="GitHub streak" />
 
 </div>
 
@@ -69,7 +79,15 @@
 
 <div align="center">
 
-[![LeetCode user robegetachew](https://img.shields.io/badge/dynamic/json?style=for-the-badge&labelColor=black&color=%23ffa116&label=LeetCode&query=ranking&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2Frobegetachew&logo=leetcode&logoColor=black)](https://leetcode.com/u/robegetachew/)
+**[Leetcode Profile](https://leetcode.com/u/robegetachew/)**
+
+#### LeetCode Stats
+*Solved · Easy · Medium · Hard*
+
+[![Leetcode Stats](https://leetcard.jacoblin.cool/robegetachew?theme=dark&border=0&radius=8)](https://leetcode.com/u/robegetachew/)
+
+#### Heatmap (Last 52 Weeks)
+<img src="https://leetcard.jacoblin.cool/robegetachew?ext=heatmap&theme=dark&border=0&radius=8" width="90%" alt="LeetCode activity heatmap" />
 
 </div>
 
